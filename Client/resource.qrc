@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/mepsanlogo1.png</file>
+    </qresource>
+</RCC>
